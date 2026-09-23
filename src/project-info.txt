@@ -1,0 +1,14 @@
+Git-Collaborative-Workflow
+
+Project Overview:
+This project demonstrates a Git-based collaborative software development workflow.
+
+The workflow uses:
+- GitHub Issues for task management
+- Feature branches for development
+- Git commits for tracking changes
+- Pull Requests for code review
+- Main branch for stable project changes
+
+Purpose:
+To demonstrate an organized workflow for collaborative software development using Git and GitHub.
